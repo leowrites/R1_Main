@@ -3,15 +3,15 @@
         {
             "name": "Mac",
             "includePath": [
-                "/Users/leoliu/Documents/Arduino/libraries/MPU9250",
-                "/Users/leoliu/Documents/Arduino/libraries/SparkFun_MPU-9250_9_DOF_IMU_Breakout/src",
+                "/Users/leoliu/Documents/Arduino/libraries/Kalman_Filter_Library",
+                "/Users/leoliu/Documents/Arduino/libraries/Grove_IMU_9DOF_9250",
                 "/Applications/Arduino.app/Contents/Java/libraries/SD/src",
-                "/Users/leoliu/Documents/Arduino/libraries/Bolder_Flight_Systems_MPU9250/src",
                 "/Applications/Arduino.app/Contents/Java/tools/**",
                 "/Users/leoliu/Documents/Arduino/libraries/**",
                 "/Applications/Arduino.app/Contents/Java/libraries/**",
                 "/Applications/Arduino.app/Contents/Java/hardware/tools/**",
-                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/**"
+                "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/**",
+                "/Users/leoliu/Documents/Arduino/libraries/MPU9255-Arduino-Library-master"
             ],
             "forcedInclude": [
                 "/Applications/Arduino.app/Contents/Java/hardware/arduino/avr/cores/arduino/Arduino.h"
